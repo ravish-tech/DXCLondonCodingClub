@@ -5,7 +5,7 @@ f3 = f1 + f2
 result = 2 # As the third number is 2 and its even, we will start with this.
 
 def isEven(num):
-    if num%2 == 0:
+    if num % 2 == 0:
         return True
     return False
 
