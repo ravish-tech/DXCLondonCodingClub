@@ -18,9 +18,9 @@ For e.g. 1, 1, 2, 3, 5, 8, 13 and so on. Below is how its calculated.
 
 As we can see above 5th number in this serise is 5.
 
-Can you find the 100th number in this series?
+Can you find the 38th number in this series?
 
-*(Bonus problem: what is the first number in fibnocci seriese which is 5 number long. nnnnn)*
+*(Bonus problem: Find the sum of all even numbers in a fibnocci seriese of first 100 fibnocci numbers.)*
 
 
 ### Problem 2
