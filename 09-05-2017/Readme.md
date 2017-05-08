@@ -1,5 +1,5 @@
 ### 09/05/2017
-Below are three problems that also have *bonus problems* which is little bit more challanging than the orignal one.
+Below are three problems that also have *bonus problems* which are little bit more challanging than the orignal one.
 
 Attempt to solve the problem before moving onto *bonus problem*.
 
