@@ -20,8 +20,10 @@ As we can see above 5th number in this serise is 5.
 
 Can you find the 38th number in this series?
 
-*(Bonus problem: Find the sum of all even numbers in a fibnocci seriese of first 100 fibnocci numbers.)*
+Answer: 39088169
 
+*(Bonus problem: Find the sum of all even numbers in a fibnocci seriese of first 100 fibnocci numbers.)*
+Answer: 286573922006908542050
 
 ### Problem 2
 By definition, Palindrome is
@@ -32,6 +34,7 @@ Can you write a program to check if a string is a palindrome?
 
 *(Bonus problem: number palindromes are also possible. For example 121 is a palindrome. Can you find out how many palindrome numbers are there in between 10 and 99999.)*
 
+Answer: 1089
 
 ### Problem 3
 How many pairs of two positive numbers are there such that:
