@@ -6,14 +6,14 @@ Attempt to solve the problem before moving onto *bonus problem*.
 You can use any language you like. Answers will be disclosed during the meeting and posted here later.
 
 ### Problem 1
-Fibnocci series is a series of numbers in which next number is formed by adding the last two numbers. First two numbers of the series are 1.
-For e.g. 1, 1, 2, 3, 5, 8, 13 and so on. Below is how its calculated.
+Fibnocci series is a series of numbers in which next number is formed by adding the last two numbers. First two numbers of the series are always 1.
+
+Fibnocci seriese = 1, 1, 2, 3, 5, 8, 13 and so on. Below is how its calculated.
 
 | |1|2|3|4|5|6|7|8|
 |-|-|-|-|-|-|-|-|-|
 ||||1+1=|1+2=|2+3=|3+5=|5+8=|8+13=|
 |Series|1|1|2|3|5|8|13|21|
-
 
 
 As we can see above 5th number in this serise is 5.
